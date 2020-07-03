@@ -3,7 +3,9 @@
 ### Libraries used
 ```
 pyrogram
+numpy
+Pillow
+wikipedia
 wordcloud
-wiki
-
+tgcrypto
 ```
