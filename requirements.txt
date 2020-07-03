@@ -1,0 +1,6 @@
+pyrogram
+numpy
+Pillow
+wikipedia
+wordcloud
+tgcrypto
